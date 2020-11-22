@@ -1,7 +1,7 @@
 # Séquence : Types de données
 
 ## 1. Codage des nombres
-Analyse des mécanisme d'un système de numération connu (le décimal) pour découvrir le système binaire. Méthodes de conversions binaire / décimal.
+Analyse des mécanismes d'un système de numération connu (le décimal) pour découvrir le système binaire. Méthodes de conversions binaire / décimal.
 
 ## 2. Codage des textes
 Découverte des mécanismes d'encodage de texte et mise en pratique sur la table ASCII.
